@@ -1,20 +1,74 @@
-<h1 align="center">Hi 👋, I'm Josh</h1>
-<h3 align="center">A passionate full stack developer</h3>
+# Hi 👋, I'm Joshna P S
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=josh070305&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
-
-- 🌱 I’m currently learning **MERN Stack**
-- 💬 Ask me about **JavaScript, React.js, Node.js, MongoDB, C++**
-- 📫 How to reach me **joesenthil07@gmail.com**
-- ⚡ Focused on **building real-world web applications**
+🚀  MERN Stack Developer | Data Analyst
+🎓 Final Year B.Tech (Computer Science)
+📍 Coimbatore, Tamil Nadu
 
 ---
 
-### 🛠️ Languages and Tools:
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,cpp" />
-</p>
+## 💡 About Me
+
+I enjoy working with data and building web applications that solve real-world problems.
+
+* 📊 Interested in Data Analysis & Visualization
+* 🌐 Skilled in MERN Stack Development
+* 📈 Passionate about extracting insights from data
+* 💻 Love building responsive and scalable web applications
+* 🎯 Aspiring Data Analyst / Full Stack Developer
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+Python • JavaScript • C++
+
+### 📊 Data Analytics
+
+Pandas • Power BI • Excel
+
+### 🌐 Development
+
+React.js • Node.js • Express.js • MongoDB
+
+### ⚙️ Tools
+
+Git • GitHub • VS Code
+
+---
+
+## 🚀 What I Do
+
+* Analyze data and generate meaningful insights
+* Build full stack web applications
+* Work with databases and APIs
+* Solve real-world problems using technology
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josh070305\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josh070305\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📚 Currently Learning
+
+* Advanced Data Analysis
+* Power BI Dashboards & Visualization
+* Backend Development with Node.js
+* System Design Basics
+
+---
+
+## 🤝 Connect With Me
+
+📧 [joesenthil07@gmail.com](mailto:joesenthil07@gmail.com)
+🔗 https://linkedin.com/in/YOUR-LINK
+
+---
+
+✨ *"Turning data into insights and ideas into applications."*
