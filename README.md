@@ -67,7 +67,7 @@ Git • GitHub • VS Code
 ## 🤝 Connect With Me
 
 📧 [joesenthil07@gmail.com](mailto:joesenthil07@gmail.com)
-🔗 https://linkedin.com/in/YOUR-LINK
+🔗 https://linkedin.com/in/https://www.linkedin.com/in/joshna-p-s-566521260/
 
 ---
 
