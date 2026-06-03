@@ -6,18 +6,7 @@
 
 ---
 
-### 🧠 About Me
-
-```python
-joshna = {
-    "name"       : "P. S. Joshna",
-    "location"   : "Coimbatore, Tamil Nadu 🇮🇳",
-    "education"  : "B.Tech Computer Science @ Bharathidasan University (2026)",
-    "roles"      : ["Data Analyst", "AI/ML Engineer", "Full Stack MERN Developer"],
-    "languages"  : ["Python 🐍", "JavaScript (ES6+)", "SQL", "TypeScript"],
-    "currently"  : "Building intelligent, data-driven web products",
-    "open_to"    : "Full-time roles & internships 🚀"
-}
+### 
 ```
 
 ---
@@ -55,17 +44,7 @@ joshna = {
 
 ---
 
-### 🚀 Featured Projects
 
-| 📈 Customer Sales & Churn Analytics | 🛒 Full Stack MERN E-Commerce |
-|---|---|
-| EDA on 50K+ rows, 15+ engineered features, 82% churn accuracy, interactive dashboards | 6-service microservices, Stripe + JWT + Docker, CI/CD, <200ms API response |
-
-| 🤖 GenAI Smart Assessment Platform | 🔍 More Coming Soon... |
-|---|---|
-| LLM-powered MCQ generation, LSTM forecasting, NLP answer evaluation, 15% accuracy boost | Exploring LangChain, RAG pipelines & real-time data streaming |
-
----
 
 ### 📊 GitHub Stats
 
